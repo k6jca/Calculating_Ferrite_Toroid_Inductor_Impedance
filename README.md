@@ -4,3 +4,5 @@ Fair-Rite data u' and u'' data downloadable (in a .csv file) from Fair-Rite's we
 
 The script uses an example inductor of 12 turns on a Mix 31 FT-240 core.  The .csv file data
 is in the /Excel subdirectory.
+
+MATLAB script written with MATLAB version R2020a
