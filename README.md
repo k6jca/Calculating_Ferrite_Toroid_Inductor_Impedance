@@ -5,4 +5,4 @@ Fair-Rite data u' and u'' data downloadable (in a .csv file) from Fair-Rite's we
 The script uses an example inductor of 12 turns on a Mix 31 FT-240 core.  The .csv file data
 is in the /Excel subdirectory.
 
-MATLAB script written with MATLAB version R2020a.  Note that you'll need at least version R2019a (to utilized the readmatrix() function, and at least version R2018Bb for the sgtitle() function.
+MATLAB script tested with MATLAB version R2020a.  Note that you'll need at least version R2019a (to utilized the readmatrix() function, and at least version R2018Bb for the sgtitle() function.
